@@ -1,0 +1,6 @@
+[project]
+name = "gersemi-pre-commit"
+version = "0.0.0"
+dependencies = [
+    "gersemi==0.1.0",
+]
