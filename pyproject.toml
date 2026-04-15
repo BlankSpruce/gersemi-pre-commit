@@ -2,5 +2,5 @@
 name = "gersemi-pre-commit"
 version = "0.0.0"
 dependencies = [
-    "gersemi==0.23.2",
+    "gersemi==0.24.0",
 ]
